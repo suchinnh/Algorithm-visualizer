@@ -4,7 +4,6 @@ A Tkinter and Pygame project that visualizes the algorithms.
 <br />
 <p align="center">
     <img src="Images/search.ico" alt="Logo" width="120" height="120">
-  </a>
   <h1 align="center">Algorithm Visualizer</h1>
   <p align="center">
   <i><b>A desktop app made using Tkinter and Pygame modules of Python to visualize different computer algorithms like searching, sorting and backtracking e.t.c.

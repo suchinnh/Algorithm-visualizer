@@ -3,7 +3,6 @@ A Tkinter and Pygame project that visualizes the algorithms.
 
 <br />
 <p align="center">
-  <a href="https://https://github.com/DebRC/Algorithm-Visualizer">
     <img src="Images/search.ico" alt="Logo" width="120" height="120">
   </a>
   <h1 align="center">Algorithm Visualizer</h1>
